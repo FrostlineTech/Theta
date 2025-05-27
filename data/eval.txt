@@ -1,0 +1,68 @@
+def calculate_average(numbers):
+    """Calculate the average of a list of numbers."""
+    if not numbers:
+        return 0
+    return sum(numbers) / len(numbers)
+
+def gcd(a, b):
+    """Calculate the greatest common divisor of two numbers."""
+    while b:
+        a, b = b, a % b
+    return a
+
+def lcm(a, b):
+    """Calculate the least common multiple of two numbers."""
+    return a * b // gcd(a, b)
+
+def is_palindrome(s):
+    """Check if a string is a palindrome."""
+    s = s.lower()
+    s = ''.join(c for c in s if c.isalnum())
+    return s == s[::-1]
+
+def count_words(text):
+    """Count the number of words in a string."""
+    words = text.split()
+    return len(words)
+
+class BinaryTree:
+    """Binary tree implementation."""
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+    
+    def insert_left(self, value):
+        if self.left is None:
+            self.left = BinaryTree(value)
+        else:
+            new_node = BinaryTree(value)
+            new_node.left = self.left
+            self.left = new_node
+    
+    def insert_right(self, value):
+        if self.right is None:
+            self.right = BinaryTree(value)
+        else:
+            new_node = BinaryTree(value)
+            new_node.right = self.right
+            self.right = new_node
+
+def bubble_sort(arr):
+    """Bubble sort implementation."""
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n - i - 1):
+            if arr[j] > arr[j + 1]:
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+    return arr
+
+def selection_sort(arr):
+    """Selection sort implementation."""
+    for i in range(len(arr)):
+        min_idx = i
+        for j in range(i + 1, len(arr)):
+            if arr[j] < arr[min_idx]:
+                min_idx = j
+        arr[i], arr[min_idx] = arr[min_idx], arr[i]
+    return arr

@@ -1,0 +1,59 @@
+Q: What's the difference between Python lists and tuples?
+A: Lists are mutable, tuples aren't. So if you need your data to stay exactly as it is, use a tuple. Otherwise, go with a list and live a little dangerously.
+
+Q: How do you handle exceptions in Python?
+A: With try-except blocks. Try to run your code, except when it explodes, then handle the fallout. You can also add finally clauses for cleanup code that runs regardless, like closing files when you're done with them.
+
+Q: What are decorators in Python?
+A: Decorators are Python's way of wrapping one function with another. It's syntactic sugar that looks like @decorator on top of your function. Behind the scenes, it's just passing your function as an argument to another function that returns a modified version.
+
+Q: Explain the difference between == and === in JavaScript.
+A: == checks if values are equal after converting types (loose equality), while === checks if both value and type are equal (strict equality). Use === unless you have a specific reason not to, because == can lead to unexpected behavior when it coerces types.
+
+Q: What is a closure in programming?
+A: A closure is a function that remembers the variables from the scope in which it was created, even after that scope is gone. It's like the function packs a lunch of variables to take with it wherever it goes.
+
+Q: How does garbage collection work?
+A: Garbage collection automatically frees memory that's no longer being used. Different languages implement it differently, but generally it identifies objects that can't be reached anymore and reclaims their memory. It's like a digital janitor cleaning up after messy programmers.
+
+Q: What is Big O notation?
+A: Big O notation describes the performance or complexity of an algorithm by showing how execution time or space requirements grow as input size increases. O(1) is constant time, O(n) is linear, O(n²) is quadratic, and O(log n) is logarithmic. It's a way to say "this is how badly your code will fall apart with large inputs."
+
+Q: What's the difference between a framework and a library?
+A: With a library, you call the code. With a framework, the code calls you. A library is a collection of tools you can use however you want, while a framework is an opinionated system that dictates how your application should be structured.
+
+Q: What is SQL injection and how do you prevent it?
+A: SQL injection is when attackers insert malicious SQL code into your queries through user inputs. Prevent it by using parameterized queries or prepared statements rather than concatenating strings. Never trust user input—sanitize everything as if it came from someone trying to destroy your database (because it might).
+
+Q: What's the difference between a thread and a process?
+A: A process is an independent program with its own memory space. A thread is a subset of a process that shares memory with other threads in the same process. Think of a process as a house and threads as people living in it—they share the same space but can do different things.
+
+Q: What is REST API?
+A: REST (Representational State Transfer) is an architectural style for APIs where clients make requests to endpoints using standard HTTP methods. It's stateless, cacheable, and uses standard formats like JSON. Think of it as a standardized way for computers to ask each other for stuff over the internet.
+
+Q: What are promises in JavaScript?
+A: Promises are objects representing the eventual completion or failure of an asynchronous operation. They're a cleaner alternative to callback hell, letting you chain .then() for success and .catch() for failures. They promise to do something and let you know when they're done or if they failed.
+
+Q: Explain the concept of inheritance in OOP.
+A: Inheritance is when a class acquires properties and behaviors from another class. The child class (subclass) inherits from the parent class (superclass), extending or overriding functionality as needed. It's nature's way of saying "why reinvent the wheel when you can just steal code?"
+
+Q: What is a hash table?
+A: A hash table is a data structure that stores key-value pairs and uses a hash function to map keys to array indices. This allows for very fast lookups, insertions, and deletions (ideally O(1) time complexity). It's like having a magical librarian who instantly knows where any book is shelved.
+
+Q: What is recursion?
+A: Recursion is when a function calls itself to solve smaller instances of the same problem. It needs a base case to prevent infinite recursion. To understand recursion, you must first understand recursion.
+
+Q: What's the difference between float and double?
+A: Both store decimal numbers, but double has twice the precision of float. Float uses 32 bits, double uses 64 bits. Use float when memory is tight and precision isn't critical; use double when you need more accurate calculations. It's like choosing between a rough estimate and a precise measurement.
+
+Q: What is dependency injection?
+A: Dependency injection is a design pattern where objects receive other objects they depend on rather than creating them internally. It makes code more modular, testable, and maintainable by reducing tight coupling between components. Instead of a class making its own tools, you hand them the tools they need.
+
+Q: What is the difference between a stack and a queue?
+A: A stack is LIFO (Last In, First Out) like a stack of plates—you take from the top. A queue is FIFO (First In, First Out) like a line at a store—first come, first served. Choose based on whether you want the newest item (stack) or the oldest item (queue) when retrieving.
+
+Q: What is a callback function?
+A: A callback function is a function passed as an argument to another function, which then invokes the callback at a specific time or when certain conditions are met. It's how you tell a function "Hey, when you're done, call this other function and let it know."
+
+Q: What is functional programming?
+A: Functional programming is a paradigm that treats computation as the evaluation of mathematical functions while avoiding state changes and mutable data. It emphasizes pure functions, immutability, and expressions over statements. It's programming with functions as first-class citizens that don't gossip about state behind your back.

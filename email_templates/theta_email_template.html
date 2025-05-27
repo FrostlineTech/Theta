@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{subject}}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #152238;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 4px solid #0055a4;
+        }
+        .content {
+            padding: 20px;
+        }
+        .footer {
+            background-color: #101820;
+            color: #ffffff;
+            text-align: center;
+            padding: 15px;
+            font-size: 12px;
+        }
+        .data-row {
+            margin-bottom: 15px;
+            border-left: 3px solid #0055a4;
+            padding-left: 15px;
+        }
+        .data-label {
+            font-weight: bold;
+            color: #152238;
+            margin-bottom: 5px;
+        }
+        .data-value {
+            margin-bottom: 10px;
+            padding: 8px;
+            background-color: #f7f9fc;
+            border-radius: 3px;
+        }
+        .timestamp {
+            color: #888;
+            font-size: 12px;
+            text-align: right;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Theta AI</h2>
+            <h3>{{subject}}</h3>
+        </div>
+        <div class="content">
+            {{content_blocks}}
+            <div class="timestamp">Generated: {{timestamp}}</div>
+        </div>
+        <div class="footer">
+            Powered by Frostline Solutions LLC
+        </div>
+    </div>
+</body>
+</html>

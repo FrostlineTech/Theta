@@ -1,0 +1,89 @@
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: Who wrote "Romeo and Juliet"?
+A: William Shakespeare wrote "Romeo and Juliet."
+
+Q: How many continents are there?
+A: There are seven continents: Africa, Antarctica, Asia, Australia/Oceania, Europe, North America, and South America.
+
+Q: What is the largest planet in our solar system?
+A: Jupiter is the largest planet in our solar system.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au (from the Latin word "aurum").
+
+Q: What is the tallest mountain in the world?
+A: Mount Everest is the tallest mountain in the world, with a height of approximately 29,032 feet (8,849 meters).
+
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci painted the Mona Lisa.
+
+Q: What is the largest ocean on Earth?
+A: The Pacific Ocean is the largest ocean on Earth.
+
+Q: What is the freezing point of water in Celsius?
+A: The freezing point of water is 0 degrees Celsius.
+
+Q: Who was the first person to walk on the moon?
+A: Neil Armstrong was the first person to walk on the moon on July 20, 1969.
+
+Q: What is the human body's largest organ?
+A: The skin is the human body's largest organ.
+
+Q: What is the speed of light?
+A: The speed of light in a vacuum is approximately 299,792,458 meters per second.
+
+Q: Who invented the telephone?
+A: Alexander Graham Bell invented the telephone in 1876.
+
+Q: What is the smallest country in the world?
+A: Vatican City is the smallest country in the world.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What are the primary colors?
+A: The primary colors of light are red, green, and blue. The primary colors of pigment are red, yellow, and blue.
+
+Q: How many elements are in the periodic table?
+A: There are 118 elements in the periodic table.
+
+Q: What is the most abundant gas in Earth's atmosphere?
+A: Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78%.
+
+Q: What is the main language spoken in Brazil?
+A: The main language spoken in Brazil is Portuguese.
+
+Q: Who wrote "To Kill a Mockingbird"?
+A: Harper Lee wrote "To Kill a Mockingbird."
+
+Q: What is the largest desert in the world?
+A: The Antarctic Desert is the largest desert in the world. If considering only hot deserts, the Sahara is the largest.
+
+Q: What is the currency of Japan?
+A: The currency of Japan is the yen (¥).
+
+Q: Who was the first president of the United States?
+A: George Washington was the first president of the United States.
+
+Q: What is the boiling point of water in Celsius?
+A: The boiling point of water at standard pressure is 100 degrees Celsius.
+
+Q: What is the longest river in the world?
+A: The Nile River is generally considered the longest river in the world, though some measurements suggest the Amazon River might be longer.
+
+Q: What gas do plants absorb from the atmosphere?
+A: Plants absorb carbon dioxide (CO2) from the atmosphere.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: Who discovered penicillin?
+A: Alexander Fleming discovered penicillin in 1928.
+
+Q: What is the hardest natural substance on Earth?
+A: Diamond is the hardest natural substance on Earth.
+
+Q: What is the closest planet to the Sun?
+A: Mercury is the closest planet to the Sun.

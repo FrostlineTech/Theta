@@ -1,0 +1,149 @@
+Q: What is the capital of Alabama?
+A: The capital of Alabama is Montgomery.
+
+Q: What is the capital of Alaska?
+A: The capital of Alaska is Juneau.
+
+Q: What is the capital of Arizona?
+A: The capital of Arizona is Phoenix.
+
+Q: What is the capital of Arkansas?
+A: The capital of Arkansas is Little Rock.
+
+Q: What is the capital of California?
+A: The capital of California is Sacramento.
+
+Q: What is the capital of Colorado?
+A: The capital of Colorado is Denver.
+
+Q: What is the capital of Connecticut?
+A: The capital of Connecticut is Hartford.
+
+Q: What is the capital of Delaware?
+A: The capital of Delaware is Dover.
+
+Q: What is the capital of Florida?
+A: The capital of Florida is Tallahassee.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Atlanta.
+
+Q: What is the capital of Hawaii?
+A: The capital of Hawaii is Honolulu.
+
+Q: What is the capital of Idaho?
+A: The capital of Idaho is Boise.
+
+Q: What is the capital of Illinois?
+A: The capital of Illinois is Springfield.
+
+Q: What is the capital of Indiana?
+A: The capital of Indiana is Indianapolis.
+
+Q: What is the capital of Iowa?
+A: The capital of Iowa is Des Moines.
+
+Q: What is the capital of Kansas?
+A: The capital of Kansas is Topeka.
+
+Q: What is the capital of Kentucky?
+A: The capital of Kentucky is Frankfort.
+
+Q: What is the capital of Louisiana?
+A: The capital of Louisiana is Baton Rouge.
+
+Q: What is the capital of Maine?
+A: The capital of Maine is Augusta.
+
+Q: What is the capital of Maryland?
+A: The capital of Maryland is Annapolis.
+
+Q: What is the capital of Massachusetts?
+A: The capital of Massachusetts is Boston.
+
+Q: What is the capital of Michigan?
+A: The capital of Michigan is Lansing.
+
+Q: What is the capital of Minnesota?
+A: The capital of Minnesota is Saint Paul.
+
+Q: What is the capital of Mississippi?
+A: The capital of Mississippi is Jackson.
+
+Q: What is the capital of Missouri?
+A: The capital of Missouri is Jefferson City.
+
+Q: What is the capital of Montana?
+A: The capital of Montana is Helena.
+
+Q: What is the capital of Nebraska?
+A: The capital of Nebraska is Lincoln.
+
+Q: What is the capital of Nevada?
+A: The capital of Nevada is Carson City.
+
+Q: What is the capital of New Hampshire?
+A: The capital of New Hampshire is Concord.
+
+Q: What is the capital of New Jersey?
+A: The capital of New Jersey is Trenton.
+
+Q: What is the capital of New Mexico?
+A: The capital of New Mexico is Santa Fe.
+
+Q: What is the capital of New York?
+A: The capital of New York is Albany.
+
+Q: What is the capital of North Carolina?
+A: The capital of North Carolina is Raleigh.
+
+Q: What is the capital of North Dakota?
+A: The capital of North Dakota is Bismarck.
+
+Q: What is the capital of Ohio?
+A: The capital of Ohio is Columbus.
+
+Q: What is the capital of Oklahoma?
+A: The capital of Oklahoma is Oklahoma City.
+
+Q: What is the capital of Oregon?
+A: The capital of Oregon is Salem.
+
+Q: What is the capital of Pennsylvania?
+A: The capital of Pennsylvania is Harrisburg.
+
+Q: What is the capital of Rhode Island?
+A: The capital of Rhode Island is Providence.
+
+Q: What is the capital of South Carolina?
+A: The capital of South Carolina is Columbia.
+
+Q: What is the capital of South Dakota?
+A: The capital of South Dakota is Pierre.
+
+Q: What is the capital of Tennessee?
+A: The capital of Tennessee is Nashville.
+
+Q: What is the capital of Texas?
+A: The capital of Texas is Austin.
+
+Q: What is the capital of Utah?
+A: The capital of Utah is Salt Lake City.
+
+Q: What is the capital of Vermont?
+A: The capital of Vermont is Montpelier.
+
+Q: What is the capital of Virginia?
+A: The capital of Virginia is Richmond.
+
+Q: What is the capital of Washington?
+A: The capital of Washington is Olympia.
+
+Q: What is the capital of West Virginia?
+A: The capital of West Virginia is Charleston.
+
+Q: What is the capital of Wisconsin?
+A: The capital of Wisconsin is Madison.
+
+Q: What is the capital of Wyoming?
+A: The capital of Wyoming is Cheyenne.

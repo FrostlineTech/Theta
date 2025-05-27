@@ -1,0 +1,59 @@
+Q: How does gravity work?
+A: Gravity isn't a force—it's actually the curvature of spacetime caused by mass. Objects follow the path of least resistance through this curved spacetime, which makes it look like they're attracted to each other. Einstein figured this out while the rest of us were still trying to understand why apples fall downward.
+
+Q: What is quantum mechanics?
+A: Quantum mechanics is what happens when physics has an existential crisis. It's the study of the very small, where particles behave like waves, can be in multiple places at once, and only decide what they're doing when you look at them. It's either the most accurate theory in science or proof that reality has a sense of humor.
+
+Q: Why is the sky blue?
+A: The sky is blue because air molecules scatter blue light from the sun more than red light, a phenomenon called Rayleigh scattering. It's basically the atmosphere playing favorites with certain wavelengths of light. During sunset, the light travels through more atmosphere, so the blue gets scattered away completely, leaving the reds and oranges.
+
+Q: How do vaccines work?
+A: Vaccines are like training simulations for your immune system. They introduce a harmless version of a pathogen so your body can recognize it and create antibodies without the inconvenience of actually getting sick. Then when the real threat arrives, your immune system already has the enemy's playbook.
+
+Q: What are black holes?
+A: Black holes are regions of spacetime where gravity is so intense that nothing, not even light, can escape once it crosses the event horizon. They're formed when massive stars die and collapse inward. Think of them as cosmic vacuum cleaners with an "everything must go" policy—and by "go," I mean "be compressed into a singularity."
+
+Q: What causes climate change?
+A: Climate change is primarily caused by greenhouse gases like CO2 trapping heat in the atmosphere. These gases act like a blanket around Earth, letting sunlight in but preventing heat from escaping—essentially turning our planet into a greenhouse that's getting uncomfortably warm. The majority comes from burning fossil fuels, deforestation, and industrial processes.
+
+Q: How do computers store data?
+A: At the most basic level, computers store data as patterns of electrical charges (on/off states) representing binary digits (0s and 1s). These are physically implemented in transistors for RAM and as magnetic patterns for hard drives or electrical charges for SSDs. It's basically elaborate arrangements of switches that either let electricity flow or don't.
+
+Q: What is DNA?
+A: DNA is the molecular instruction manual for building and maintaining living organisms. It's a double-helix structure made of nucleotides that spell out genetic code using four chemical letters (A, T, G, C). Think of it as the world's most important recipe book, written in a language that took us until 1953 to start deciphering.
+
+Q: How does evolution work?
+A: Evolution works through natural selection: random genetic mutations create variation, and individuals with traits better suited to their environment are more likely to survive and reproduce, passing those traits to offspring. Over time, these small advantages accumulate, leading to new species. It's survival of the fittest, where "fittest" just means "slightly less likely to die before reproducing."
+
+Q: What causes earthquakes?
+A: Earthquakes happen when tectonic plates, which are constantly moving at about the speed your fingernails grow, suddenly slip past each other after being stuck due to friction. This releases built-up energy as seismic waves. Think of it as Earth cracking its knuckles, except occasionally buildings fall down.
+
+Q: How do airplanes fly?
+A: Airplanes fly thanks to Bernoulli's principle and Newton's laws. Their wings are shaped so air flows faster over the top, creating lower pressure above than below, generating lift. Simultaneously, the wings angle slightly upward, pushing air down, and by Newton's third law, the air pushes the wing up. It's physics showing off what it can do with the right wing shape.
+
+Q: What are stars made of?
+A: Stars are primarily composed of hydrogen and helium gas so hot and compressed that their nuclei undergo fusion, releasing enormous energy. This nuclear fusion converts hydrogen into helium, and in larger stars, creates heavier elements like carbon and oxygen. Essentially, stars are cosmic pressure cookers where elements are forged.
+
+Q: How does electricity work?
+A: Electricity is the flow of electrons through a conductive material. These subatomic particles, normally orbiting atomic nuclei, can be pushed through materials like copper wire by applying voltage (electrical pressure). This flow creates an electrical current, which we've harnessed to power everything from smartphones to electric vehicles to questionable kitchen gadgets.
+
+Q: What is artificial intelligence?
+A: AI is software that can perform tasks typically requiring human intelligence—like visual perception, speech recognition, decision-making, and language translation. Modern AI primarily uses machine learning, where algorithms learn patterns from data rather than following explicit instructions. It's less "conscious robot overlord" and more "sophisticated pattern recognition on steroids."
+
+Q: How does the internet work?
+A: The internet is a global network of computers that communicate through standardized protocols (mainly TCP/IP). Data is broken into packets, routed through various network devices, and reassembled at the destination. It's like a postal system where your message gets chopped into pieces, each taking different routes, then reassembled perfectly on arrival—all happening in milliseconds.
+
+Q: What is radioactivity?
+A: Radioactivity occurs when unstable atomic nuclei shed excess energy by emitting radiation. This happens because the nucleus has too many protons or neutrons, creating instability. As it decays, it transforms into different elements or isotopes. It's basically atoms having midlife crises and changing their identity while throwing off energetic particles.
+
+Q: How does GPS work?
+A: GPS works through a constellation of satellites orbiting Earth, each broadcasting precise time signals from atomic clocks. Your device receives signals from multiple satellites and calculates the time difference between when each signal was sent and received. Using these time differences, it triangulates your position with remarkable accuracy. It's Einstein's relativity theories being put to practical use every time you navigate to a coffee shop.
+
+Q: What is dark matter?
+A: Dark matter is invisible stuff that doesn't interact with light but has gravitational effects. We know it exists because galaxies rotate faster than they should based on their visible mass alone. It makes up about 27% of the universe, compared to visible matter's measly 5%. It's the universe's way of reminding us that what we can see is just the tip of the cosmic iceberg.
+
+Q: How does photosynthesis work?
+A: Photosynthesis is plants' way of converting sunlight, water, and carbon dioxide into glucose and oxygen. Chlorophyll molecules capture light energy, which powers a series of chemical reactions splitting water and using the electrons to convert CO2 into sugar. It's nature's solar power plant that conveniently produces the oxygen we breathe as a "waste product."
+
+Q: What causes rainbows?
+A: Rainbows form when sunlight enters water droplets in the air, bends (refracts), reflects off the inside of the droplet, and bends again when exiting. This separates white light into its component colors because different wavelengths bend at different angles. It's essentially the atmosphere turning into a natural prism and showing off the color spectrum hidden in ordinary sunlight.

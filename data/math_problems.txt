@@ -1,0 +1,90 @@
+Q: What is 5 + 7?
+A: 5 + 7 = 12
+
+Q: What is 25 × 4?
+A: 25 × 4 = 100
+
+Q: What is 15 - 8?
+A: 15 - 8 = 7
+
+Q: What is 72 ÷ 9?
+A: 72 ÷ 9 = 8
+
+Q: What is 3 squared?
+A: 3 squared = 3² = 9
+
+Q: What is the square root of 16?
+A: The square root of 16 is 4
+
+Q: What is 40% of 80?
+A: 40% of 80 = 0.4 × 80 = 32
+
+Q: If x + 5 = 12, what is x?
+A: If x + 5 = 12, then x = 12 - 5 = 7
+
+Q: What is 3 + 4 × 2?
+A: 3 + 4 × 2 = 3 + 8 = 11 (multiplication is performed before addition)
+
+Q: What is (3 + 4) × 2?
+A: (3 + 4) × 2 = 7 × 2 = 14 (operations in parentheses are performed first)
+
+Q: What is 2 to the power of 8?
+A: 2 to the power of 8 = 2⁸ = 256
+
+Q: What is the area of a rectangle with length 8 and width 5?
+A: The area of a rectangle is length × width = 8 × 5 = 40 square units
+
+Q: What is the perimeter of a square with sides of length 6?
+A: The perimeter of a square is 4 × side length = 4 × 6 = 24 units
+
+Q: If a car travels at 60 miles per hour, how far will it travel in 2.5 hours?
+A: Distance = speed × time = 60 miles/hour × 2.5 hours = 150 miles
+
+Q: What is 1/4 + 1/2?
+A: 1/4 + 1/2 = 1/4 + 2/4 = 3/4
+
+Q: What is 30% of 200?
+A: 30% of 200 = 0.3 × 200 = 60
+
+Q: If 3x - 7 = 14, what is x?
+A: 3x - 7 = 14
+3x = 14 + 7
+3x = 21
+x = 21 ÷ 3 = 7
+
+Q: What is the average of 10, 15, 20, 25, and 30?
+A: Average = sum of values ÷ number of values = (10 + 15 + 20 + 25 + 30) ÷ 5 = 100 ÷ 5 = 20
+
+Q: If a product costs $24 and is discounted by 15%, what is the sale price?
+A: Sale price = original price - discount
+Discount = 15% of $24 = 0.15 × $24 = $3.60
+Sale price = $24 - $3.60 = $20.40
+
+Q: What is 7 cubed?
+A: 7 cubed = 7³ = 7 × 7 × 7 = 343
+
+Q: What is the area of a circle with radius 5?
+A: The area of a circle is π × r² = π × 5² = π × 25 ≈ 78.54 square units
+
+Q: What is 8 + 12 - 5 × 2?
+A: 8 + 12 - 5 × 2 = 8 + 12 - 10 = 20 - 10 = 10 (multiplication is performed before addition and subtraction)
+
+Q: What is 3/5 of 45?
+A: 3/5 of 45 = 3/5 × 45 = 3 × 9 = 27
+
+Q: If a triangle has angles measuring 30° and 60°, what is the measure of the third angle?
+A: The sum of angles in a triangle is 180°
+Third angle = 180° - 30° - 60° = 180° - 90° = 90°
+
+Q: What is the value of 4! (4 factorial)?
+A: 4! = 4 × 3 × 2 × 1 = 24
+
+Q: If 5 shirts cost $75, how much do 8 shirts cost?
+A: Cost per shirt = $75 ÷ 5 = $15
+Cost of 8 shirts = 8 × $15 = $120
+
+Q: What is 0.25 as a fraction in lowest terms?
+A: 0.25 = 25/100 = 1/4
+
+Q: What is 0.75 as a percentage?
+A: 0.75 as a percentage = 0.75 × 100% = 75%

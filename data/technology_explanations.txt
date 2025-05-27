@@ -1,0 +1,59 @@
+Q: What is cloud computing?
+A: Cloud computing is just using someone else's computer and paying them for the privilege. Instead of buying expensive hardware that becomes obsolete before you finish setting it up, you rent virtual machines, storage, and services from massive data centers. It's like the difference between building your own power plant versus just plugging into the grid—except with more confusing billing structures.
+
+Q: How does blockchain work?
+A: Blockchain is essentially a digital ledger that's copied across multiple computers rather than stored in one place. Each "block" contains transaction data and a hash linking to the previous block, creating an immutable chain. It's designed to be tamper-evident, transparent, and decentralized—basically a trust system for people who don't trust each other or central authorities. Think of it as a very energy-intensive way to establish consensus.
+
+Q: What is machine learning?
+A: Machine learning is getting computers to learn patterns from data instead of explicitly programming them. Rather than writing rules like "if this, then that," you feed algorithms mountains of data and they figure out the patterns themselves. It's like raising a child through thousands of examples rather than explicit instructions, except the "child" is exceptionally good at specific tasks and incredibly dense about everything else.
+
+Q: How does 5G work?
+A: 5G uses higher frequency radio waves than previous generations, allowing more data to be transmitted simultaneously. It employs smaller cells with shorter range but much higher capacity, massive MIMO (multiple-input, multiple-output) antenna arrays, and beamforming to direct signals precisely where needed. It's like replacing a garden hose with a sophisticated irrigation system—more complex but vastly more efficient at delivering what you need where you need it.
+
+Q: What is the Internet of Things (IoT)?
+A: IoT is connecting everyday objects to the internet so they can send and receive data. Your refrigerator, thermostat, light bulbs, and even toothbrush can now be online, creating a network of devices that collect data and can be controlled remotely. It's essentially giving inanimate objects the ability to communicate, which sounds cool until you realize your toaster is probably gossiping about your breakfast habits to your coffee maker.
+
+Q: How do solid-state drives (SSDs) work?
+A: SSDs store data on flash memory chips with no moving parts, unlike traditional hard drives with their spinning platters and moving read/write heads. This makes SSDs faster, more durable, and more energy-efficient, but also more expensive per gigabyte. They're essentially very sophisticated USB drives that have gotten over their commitment issues and are ready for a long-term relationship with your computer.
+
+Q: What is quantum computing?
+A: Quantum computing uses quantum bits or "qubits" that can exist in multiple states simultaneously thanks to superposition, and can be interconnected through quantum entanglement. This allows quantum computers to process certain types of problems exponentially faster than classical computers. It's like going from binary's "yes or no" to "yes, no, maybe, both, neither, and everything in between, all at once." Great for specific problems, complete overkill for checking email.
+
+Q: How does facial recognition technology work?
+A: Facial recognition analyzes facial features—like the distance between your eyes or the shape of your cheekbones—creating a mathematical representation called a faceprint. This faceprint is then compared against a database of known faces. Modern systems use deep learning neural networks trained on millions of facial images. It's basically teaching computers to stare at people's faces, which would be creepy if humans did it, but is somehow fine when algorithms do it.
+
+Q: What is virtual reality (VR)?
+A: Virtual reality creates immersive, computer-generated environments that you experience through a headset that tracks your head movements and updates your view accordingly. It tricks your brain into believing you're somewhere else by replacing your real visual and auditory inputs with artificial ones. It's the technological equivalent of putting a bucket on your head with a really impressive movie playing inside, while occasionally making you walk into your coffee table.
+
+Q: How do cryptocurrencies work?
+A: Cryptocurrencies are digital assets that use cryptography for security and operate on decentralized networks based on blockchain technology. Without a central authority like a government or bank, transactions are verified by network nodes through cryptography and recorded in a public ledger. It's like creating a digital currency that combines the volatility of penny stocks, the energy consumption of a small country, and the regulatory scrutiny of a suspicious package at an airport.
+
+Q: What is edge computing?
+A: Edge computing processes data near where it's created instead of sending everything to distant data centers. By handling computation locally—on devices or nearby edge servers—it reduces latency, bandwidth use, and privacy concerns. Think of it as choosing to have a conversation in person rather than shouting across town, then getting someone to write down what you said, drive it across town, and read it to the recipient.
+
+Q: How does augmented reality (AR) differ from virtual reality?
+A: While VR replaces your entire view with a virtual environment, AR overlays digital information onto the real world. VR puts you in a completely different place; AR enhances your current place with additional content. It's the difference between diving into a digital swimming pool versus having digital fish swimming around your living room. AR lets you stay connected to reality while VR is more like reality's "do not disturb" mode.
+
+Q: What is a neural network?
+A: A neural network is a computing system inspired by biological brains, consisting of interconnected nodes ("neurons") organized in layers that process information. They excel at finding patterns in data through a process called training, where connection strengths are adjusted based on examples. Think of it as creating a brain-inspired pattern-recognition machine that's incredibly effective at specific tasks but has no idea it exists or what it's doing.
+
+Q: How does Wi-Fi work?
+A: Wi-Fi transmits data using radio waves, typically at 2.4GHz or 5GHz frequencies, between devices and a router that connects to the broader internet. Devices encode data into these radio waves, which are then decoded by receivers. It's basically a very sophisticated, standardized way of having two or more devices play an elaborate game of high-speed catch with your photos, videos, and regrettable late-night shopping decisions.
+
+Q: What is cybersecurity?
+A: Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks aimed at accessing, changing, or destroying sensitive information, extorting money, or interrupting business processes. It's an endless cat-and-mouse game between security professionals and attackers, complicated by the fact that humans are typically the weakest link. Think of it as trying to build an impenetrable fortress while giving everyone keys, and some people keep leaving the back door open.
+
+Q: How does 3D printing work?
+A: 3D printing creates three-dimensional objects layer by layer from digital models. The most common method melts plastic filament and deposits it precisely according to the design. Other methods use resins, powders, or even biological materials. It's like traditional printing if your printer had an existential crisis and decided that flat paper was too limiting and it should build things upward too.
+
+Q: What is the metaverse?
+A: The metaverse is an evolving concept of persistent, shared, 3D virtual spaces linked into a perceived virtual universe where people can interact, work, play, and even own digital assets. It's part virtual reality, part augmented reality, part social network, part digital economy. Think of it as the internet if you could walk around inside it wearing a digital body, which sounds cool until you realize it's mostly corporate spaces trying to sell you virtual sneakers for your avatar.
+
+Q: How do self-driving cars work?
+A: Self-driving cars use a combination of sensors (cameras, radar, lidar), GPS, and AI to perceive their environment, make decisions, and navigate. They build detailed maps of their surroundings, identify objects, predict movements, and plan paths—all in real-time. It's like giving a car a nervous system, brain, and driving lessons, except the "brain" is trained on millions of driving hours and doesn't get distracted by text messages or get road rage. Usually.
+
+Q: What is artificial general intelligence (AGI)?
+A: AGI refers to AI that can understand, learn, and apply knowledge across a wide range of tasks at a human level or beyond, unlike current AI systems that excel only at specific tasks. We haven't achieved it yet, and there's debate about when or if we will. It's the difference between having a calculator, chess computer, and speech recognition system versus having JARVIS from Iron Man—one can only do what it's designed for, the other can figure out new skills on its own.
+
+Q: How do noise-canceling headphones work?
+A: Noise-canceling headphones use microphones to detect ambient noise, then generate sound waves of the exact opposite pattern (180 degrees out of phase) to cancel out that noise before it reaches your ear. It's based on the principle that when two identical sound waves meet with opposite phases, they neutralize each other. Think of it as fighting sound with sound—like sending in an anti-noise special forces team to eliminate environmental noise before it reaches your eardrums.

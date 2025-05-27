@@ -1,0 +1,86 @@
+Q: What is artificial intelligence?
+A: Artificial intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans. It encompasses various technologies including machine learning, natural language processing, computer vision, and robotics.
+
+Q: What is the difference between AI and machine learning?
+A: Machine learning is a subset of AI. While AI is the broader concept of machines being able to carry out tasks in a way that we would consider "smart," machine learning refers specifically to systems that can learn and improve from experience without being explicitly programmed for every scenario.
+
+Q: What is deep learning?
+A: Deep learning is a subset of machine learning that uses neural networks with multiple layers (hence "deep") to analyze various factors of data. It's particularly effective for processing unstructured data like images, sound, and text.
+
+Q: What is a neural network?
+A: A neural network is a computing system inspired by the biological neural networks in human brains. It consists of interconnected nodes or "neurons" that process information by responding to external inputs and transmitting information between each other.
+
+Q: What is cloud computing?
+A: Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
+
+Q: What is blockchain technology?
+A: Blockchain is a distributed, decentralized, public ledger technology that records transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks.
+
+Q: What is cryptocurrency?
+A: Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently of a central bank. Bitcoin, Ethereum, and Litecoin are examples of cryptocurrencies.
+
+Q: What is the Internet of Things (IoT)?
+A: The Internet of Things (IoT) refers to the network of physical objects embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
+
+Q: What is quantum computing?
+A: Quantum computing is a type of computation that harnesses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations. It has the potential to solve certain problems much faster than classical computers.
+
+Q: What is big data?
+A: Big data refers to extremely large and complex data sets that traditional data processing software cannot manage. It's characterized by the three Vs: volume (amount of data), velocity (speed of data processing), and variety (different types of data).
+
+Q: What is 5G technology?
+A: 5G is the fifth generation of cellular network technology, designed to provide faster speeds, lower latency, and more reliable connections on smartphones and other devices than previous generations.
+
+Q: What is augmented reality (AR)?
+A: Augmented reality (AR) is an interactive experience where the real-world environment is enhanced with computer-generated information, often across multiple sensory modalities including visual, auditory, and haptic.
+
+Q: What is virtual reality (VR)?
+A: Virtual reality (VR) is a simulated experience that can be similar to or completely different from the real world. It typically involves wearing a headset that replaces your vision with a computer-generated environment.
+
+Q: What is cybersecurity?
+A: Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks typically aim to access, change, or destroy sensitive information, extort money, or interrupt normal business processes.
+
+Q: What is a VPN?
+A: A Virtual Private Network (VPN) creates a secure, encrypted connection over a less secure network, such as the public internet. It allows users to send and receive data across shared or public networks as if their computing devices were directly connected to a private network.
+
+Q: What is an API?
+A: An Application Programming Interface (API) is a set of rules and protocols that allows different software applications to communicate with each other. It defines the methods and data formats that applications can use to request and exchange information.
+
+Q: What is Docker?
+A: Docker is a platform that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries, and configuration files.
+
+Q: What is GitHub?
+A: GitHub is a cloud-based platform that helps developers store, manage, and track changes to their code. It uses Git for version control and provides access control, bug tracking, feature requests, task management, and wikis for every project.
+
+Q: What is encryption?
+A: Encryption is the process of converting information or data into a code to prevent unauthorized access. It uses mathematical algorithms to scramble data, which can only be unscrambled or decrypted by someone who possesses the correct encryption key.
+
+Q: What is edge computing?
+A: Edge computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed. This reduces latency and bandwidth use by processing data locally rather than sending it to a centralized data processing center.
+
+Q: What is a database?
+A: A database is an organized collection of structured information or data, typically stored electronically in a computer system. Databases are designed for efficient storage, retrieval, and management of data.
+
+Q: What is SQL?
+A: SQL (Structured Query Language) is a programming language used to manage and manipulate relational databases. It allows users to create, read, update, and delete data in a database.
+
+Q: What is fiber optic internet?
+A: Fiber optic internet is a broadband connection that uses fiber optic cables made of thin strands of glass or plastic to transmit data using pulses of light. It offers significantly faster speeds than traditional copper cable connections.
+
+Q: What is a firewall?
+A: A firewall is a network security device or software that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. It acts as a barrier between a trusted network and an untrusted network.
+
+Q: What is machine vision?
+A: Machine vision is the technology and methods used to provide imaging-based automatic inspection and analysis for applications such as automatic inspection, process control, and robot guidance in industry.
+
+Q: What is natural language processing (NLP)?
+A: Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans using natural language. It enables computers to understand, interpret, and generate human language in a valuable way.
+
+Q: What is cloud storage?
+A: Cloud storage is a model of computer data storage in which digital data is stored in logical pools across multiple servers, often in different locations. The physical environment is typically owned and managed by a hosting company.
+
+Q: What is a smart home?
+A: A smart home is a residence equipped with devices that can be controlled remotely by the homeowner, often via a mobile app or voice assistant. These devices may include lighting, heating, security systems, and appliances.
+
+Q: What is biometric authentication?
+A: Biometric authentication is a security process that relies on the unique biological characteristics of an individual to verify they are who they say they are. Biometric identifiers include fingerprints, facial recognition, voice recognition, and iris recognition.
